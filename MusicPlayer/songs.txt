@@ -1,0 +1,50 @@
+S001,DtMF,Bad Bunny,3:57
+S002,End of Beginning,Djo,2:39
+S003,The Fate of Ophelia,Taylor Swift,3:46
+S004,Man I Need,Olivia Dean,3:04
+S005,BAILE INOLVIDABLE,Bad Bunny,6:07
+S006,Opalite,Taylor Swift,3:55
+S007,NUEVAYoL,Bad Bunny,3:03
+S008,back to friends,sombr,3:19
+S009,Ordinary,Alex Warren,3:06
+S010,So Easy (To Fall In Love),Olivia Dean,2:49
+S011,Golden,HUNTR/X & EJAE & AUDREY NUNA & REI AMI,3:14
+S012,WHERE IS MY HUSBAND!,RAYE,3:16
+S013,Lush Life,Zara Larsson,3:20
+S014,EoO,Bad Bunny,3:24
+S015,Raindance (feat. Tems),Dave & Tems,3:39
+S016,BIRDS OF A FEATHER,Billie Eilish,3:30
+S017,Die On This Hill,SIENNA SPIRO,3:37
+S018,VOY A LLeVARTE PA PR,Bad Bunny,2:36
+S019,I Just Might,Bruno Mars,3:32
+S020,WILDFLOWER,Billie Eilish,4:21
+S021,Die With A Smile,Lady Gaga & Bruno Mars,4:11
+S022,Manchild,Sabrina Carpenter,3:33
+S023,LA CANCION,J Balvin & Bad Bunny,4:02
+S024,Every Breath You Take,The Police,4:13
+S025,I Thought I Saw Your Face Today,She & Him,2:50
+S026,Que Pasaria...,Rauw Alejandro & Bad Bunny,3:11
+S027,Iris,The Goo Goo Dolls,4:49
+S028,12 to 12,sombr,4:02
+S029,Stateside + Zara Larsson,PinkPantheress & Zara Larsson,3:04
+S030,Love Me Not,Ravyn Lenae,3:33
+S031,Gabriela,KATSEYE,3:17
+S032,VeLDA,Bad Bunny & Omar Courtz & Dei V,3:55
+S033,Sailor Song,Gigi Perez,3:31
+S034,Aperture,Harry Styles,5:11
+S035,No Broke Boys,Disco Lines & Tinashe,2:43
+S036,Cuando No Era Cantante - Remix,El Bogueto & Anuel AA & Fuerza Regida & Yung Beef,5:27
+S037,Sweater Weather,The Neighbourhood,4:00
+S038,Espresso,Sabrina Carpenter,2:55
+S039,That's What I Like,Bruno Mars,3:26
+S040,Creep,Radiohead,3:58
+S041,One Dance,Drake & Wizkid & Kyla,2:53
+S042,dopamina,Peso Pluma & Tito Double P,3:05
+S043,Beautiful Things,Benson Boone,3:00
+S044,Yellow,Coldplay,4:26
+S045,One Of The Girls,The Weeknd & JENNIE & Lily-Rose Depp,4:04
+S046,DAISIES,Justin Bieber,2:56
+S047,APT.,ROSE & Bruno Mars,2:49
+S048,LA VILLA,Ryan Castro & Kapo & Gangsta,3:12
+S049,Titi Me Pregunto,Bad Bunny,4:03
+S050,Lose Control,Teddy Swims,3:30
