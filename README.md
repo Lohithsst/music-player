@@ -1,6 +1,6 @@
 # Music Player
 
-A C# console music player. It keeps one song library in several data structures, each chosen for the job it does.
+A C# console music player. It keeps one song library in several data structures, each chosen for the job it does. Built as a school project.
 
 | Data structure | Used for |
 |---|---|
